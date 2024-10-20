@@ -1,0 +1,13 @@
+name: BedwarsPlus
+version: '1.0-SNAPSHOT'
+main: com.github.pritam11638.bedwarsPlus.BedwarsPlus
+api-version: '1.21'
+prefix: '[Bedwars+]'
+authors: [ Pritam ]
+description: An advanced bedwars remake for performance.
+website: https://github.com/pritam11638
+commands:
+    bedwarsplus:
+        description: BedwarsPlus main command.
+        usage: /<command>
+        aliases: [bwp]
